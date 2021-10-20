@@ -4,6 +4,8 @@
 
 /S1/Calculations/obj
 /S1/Calculations/bin/Debug/netcoreapp3.1
+/S1/Calculations/obj
+/S1/Calculations/.vs/Calculations/v16
 /S1/Calculations/.vs/Calculations
 /S1/Calculations.Test/obj
 /S1/Calculations.Test/bin/Debug/netcoreapp3.1
